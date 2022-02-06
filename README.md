@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amardeep
 - 👀 I’m interested in Web Development (ASP.NET & Angular)
-- 🌱 I’m currently learning Azure
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on developing and maintaining web applications.
 - 📫 How to reach me : (+91)7700-8163-57
 
